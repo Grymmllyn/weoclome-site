@@ -16,7 +16,7 @@ export default function Home() {
         <Header title="Next.js Toolbox" />
         <hr />
         <p className="description">
-        this is my 
+        so, this is where you find my stuff (its down below you big idiot)
         </p>
         <FeedbackForm />
         <JokeBlock />
